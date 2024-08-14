@@ -1,3 +1,6 @@
+print("Welcome to our game!")
+print("This game is amazing!")
+
 print("Hello World")
 a = input("How are you?")
 if 'you' in a:
