@@ -1,2 +1,3 @@
 print("Hello World")
-print("How are you?")
+a = input("How are you?")
+print("Very good.")
